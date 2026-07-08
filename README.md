@@ -7,6 +7,7 @@ Proyecto Next.js de Back to Me App.
 - Local: `C:\Users\marco\OneDrive\Escritorio\back-to-me-app`
 - GitHub: `MarcosJavMartinez/back-to-me-app`
 - Vercel: `marcos-javier-martinezs-projects/back-to-me-app`
+- URL: `https://back-to-me-app.vercel.app`
 - Supabase: `Back to Me App` (`bfagvdlizifegmskainn`)
 
 ## Comandos
