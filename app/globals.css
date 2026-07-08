@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-height: 100%;
+  background: #bfe8f7;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  overflow-x: hidden;
+  background:
+    linear-gradient(180deg, #dff1f6 0%, #edf5ec 52%, #fffaf0 100%);
+  color: #2f2f2f;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+button {
+  min-height: 44px;
+}
+
+button,
+a,
+input,
+select,
+textarea {
+  transition: border-color 160ms ease, background-color 160ms ease, color 160ms ease, box-shadow 160ms ease;
+}
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 3px solid rgba(79, 138, 91, 0.3);
+  outline-offset: 2px;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin-block-start: 0;
+}
+
+.soft-card {
+  border-radius: 20px;
+  border: 1px solid #e8d8bc;
+  background: rgba(255, 250, 240, 0.88);
+  box-shadow: 0 8px 22px rgba(79, 104, 82, 0.08);
+  backdrop-filter: blur(8px);
+}
+
+.pastel-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: #8bcb77 #fff7e8;
+}
+
+.world-banner-scroll {
+  scroll-padding-inline: 0.75rem;
+  -webkit-overflow-scrolling: touch;
+}
