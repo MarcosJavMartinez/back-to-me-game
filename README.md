@@ -4,11 +4,11 @@ Proyecto Next.js de Back to Me App.
 
 ## Cadena oficial
 
-- Local: `C:\Users\marco\OneDrive\Escritorio\back-to-me-app`
-- GitHub: `MarcosJavMartinez/back-to-me-app`
-- Vercel: `marcos-javier-martinezs-projects/back-to-me-app`
+- Local: `C:\Users\marco\OneDrive\Escritorio\back-to-me-game`
+- GitHub: `MarcosJavMartinez/back-to-me-game`
+- Vercel: `marcos-javier-martinezs-projects/back-to-me-game`
 - URL: `https://back-to-me-game.vercel.app`
-- Supabase: `Back to Me App` (`bfagvdlizifegmskainn`)
+- Supabase: `back-to-me-game` (`bfagvdlizifegmskainn`)
 
 ## Comandos
 
